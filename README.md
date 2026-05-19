@@ -3,7 +3,7 @@
 A collaborative premium South African streetwear e-commerce website, built as a team effort by multiple contributors.
 
 ## 🔗 Live Demo
-> Coming soon via GitHub Pages
+> https://k-a-v-e-l-o.github.io/bang-fashion-2.0/
 
 ## 👥 Team
 This project was built collaboratively. Contributors were invited via GitHub to work together on the frontend design, product catalogue, and user experience.
