@@ -1,14 +1,14 @@
-﻿# Bang Fashion 2.0 â€” Elegance Redefined
+﻿# Bang Fashion 2.0 Elegance Redefined
 
 A collaborative premium South African streetwear e-commerce website, built as a team effort by multiple contributors.
 
-## ðŸ”— Live Demo
+##— Live Demo
 > https://k-a-v-e-l-o.github.io/bang-fashion-2.0/
 
 ## ðŸ‘¥ Team
 This project was built collaboratively. Contributors were invited via GitHub to work together on the frontend design, product catalogue, and user experience.
 
-## âœ¨ Features
+## Features
 - Luxury fashion-forward UI with custom cursor and loader animation
 - Full product catalogue with category filtering
 - Product modals with image galleries and size selection
@@ -20,7 +20,7 @@ This project was built collaboratively. Contributors were invited via GitHub to 
 - Light / Dark theme toggle
 - Fully responsive â€” mobile, tablet and desktop
 
-## ðŸ› ï¸ Built With
+##¸ Built With
 - HTML5
 - CSS3 (custom properties, flexbox, grid)
 - Vanilla JavaScript
